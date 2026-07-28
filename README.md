@@ -15,6 +15,10 @@
 
 ## 📸 Preview
 
+<div align="center">
+  <img src="preview.png" alt="AUTOVAL UI Preview" width="100%">
+</div>
+
 > Dark-themed, premium UI built with Streamlit — featuring real ML predictions, confidence intervals, and key factor analysis.
 
 ---
