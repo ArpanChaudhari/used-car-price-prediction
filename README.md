@@ -9,6 +9,8 @@
 
 **A machine learning web app that predicts used car prices in the Indian market using a trained Random Forest model.**
 
+### 🌐 Live Demo: [used-car-price-prediction-arpan.streamlit.app](https://used-car-price-prediction-arpan.streamlit.app/)
+
 </div>
 
 ---
